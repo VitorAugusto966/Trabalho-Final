@@ -1,0 +1,67 @@
+
+body {
+    padding-top: 5em;
+    background-color:white;
+    color:black;
+}
+.cor-alto-contraste{
+    background-color: black;
+    color: white;
+    
+}
+ 
+.minhas-cores{
+    background-color:lightpink;
+    color:white;
+
+}
+
+main{
+    margin-bottom: 4em;
+}
+
+
+.rodape {             
+          
+    width: 100%;    
+    background-color:lightskyblue;
+    text-align: center;
+    bottom: 0;
+    left:0;
+    right: 0;
+    
+}
+.cor-alto-contraste{
+    background-color: black;
+    color: white;
+}
+#secao1 {
+    border:2px solid black;
+}
+#secao2 {
+    border:2px solid black;
+}
+#secao3 {
+    border:2px solid black;
+}
+#secao4 {
+    border:2px solid black;
+}
+#secao5 {
+    border:2px solid black;
+}
+#secao6 {
+    border:2px solid black;
+}
+#secao7 {
+    border:2px solid black;
+}
+
+a{
+    text-decoration:none;
+    color:lightskyblue;
+
+}
+a:hover{
+    color:lightskyblue;
+}
